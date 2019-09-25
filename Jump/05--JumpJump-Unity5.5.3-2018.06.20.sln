@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05--JumpJump-Unity5.5.3-2018.06.20.Plugins", "05--JumpJump-Unity5.5.3-2018.06.20.Plugins.csproj", "{8ED23A2D-4818-2F42-D912-F96C20F8F0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05--JumpJump-Unity5.5.3-2018.06.20", "05--JumpJump-Unity5.5.3-2018.06.20.csproj", "{1C9A3080-FA45-DB47-A2AE-F05A5DD9572F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05--JumpJump-Unity5.5.3-2018.06.20.Editor", "05--JumpJump-Unity5.5.3-2018.06.20.Editor.csproj", "{B01EEC41-6CE6-6364-02A6-778451D971AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED23A2D-4818-2F42-D912-F96C20F8F0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED23A2D-4818-2F42-D912-F96C20F8F0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED23A2D-4818-2F42-D912-F96C20F8F0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED23A2D-4818-2F42-D912-F96C20F8F0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9A3080-FA45-DB47-A2AE-F05A5DD9572F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9A3080-FA45-DB47-A2AE-F05A5DD9572F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9A3080-FA45-DB47-A2AE-F05A5DD9572F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9A3080-FA45-DB47-A2AE-F05A5DD9572F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01EEC41-6CE6-6364-02A6-778451D971AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01EEC41-6CE6-6364-02A6-778451D971AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01EEC41-6CE6-6364-02A6-778451D971AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01EEC41-6CE6-6364-02A6-778451D971AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

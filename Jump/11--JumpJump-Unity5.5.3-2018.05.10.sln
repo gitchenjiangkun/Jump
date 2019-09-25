@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11--JumpJump-Unity5.5.3-2018.05.10.Plugins", "11--JumpJump-Unity5.5.3-2018.05.10.Plugins.csproj", "{C4E817D4-B899-2622-78D7-70E447106AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11--JumpJump-Unity5.5.3-2018.05.10", "11--JumpJump-Unity5.5.3-2018.05.10.csproj", "{FDD522DB-4187-1CDF-83B0-97F50B3276C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11--JumpJump-Unity5.5.3-2018.05.10.Editor", "11--JumpJump-Unity5.5.3-2018.05.10.Editor.csproj", "{03EEE561-96F5-0251-FA7C-A8FB9F651C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E817D4-B899-2622-78D7-70E447106AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E817D4-B899-2622-78D7-70E447106AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E817D4-B899-2622-78D7-70E447106AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E817D4-B899-2622-78D7-70E447106AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD522DB-4187-1CDF-83B0-97F50B3276C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD522DB-4187-1CDF-83B0-97F50B3276C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD522DB-4187-1CDF-83B0-97F50B3276C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD522DB-4187-1CDF-83B0-97F50B3276C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EEE561-96F5-0251-FA7C-A8FB9F651C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EEE561-96F5-0251-FA7C-A8FB9F651C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EEE561-96F5-0251-FA7C-A8FB9F651C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EEE561-96F5-0251-FA7C-A8FB9F651C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
